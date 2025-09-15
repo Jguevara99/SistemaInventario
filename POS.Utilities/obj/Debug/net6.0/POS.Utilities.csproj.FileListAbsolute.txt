@@ -9,3 +9,4 @@ C:\Users\PC\source\repos\POS-Inventario\POS.Utilities\obj\Debug\net6.0\POS.Utili
 C:\Users\PC\source\repos\POS-Inventario\POS.Utilities\obj\Debug\net6.0\refint\POS.Utilities.dll
 C:\Users\PC\source\repos\POS-Inventario\POS.Utilities\obj\Debug\net6.0\POS.Utilities.pdb
 C:\Users\PC\source\repos\POS-Inventario\POS.Utilities\obj\Debug\net6.0\ref\POS.Utilities.dll
+C:\Users\PC\source\repos\POS-Inventario\POS.Utilities\obj\Debug\net6.0\POS.Utilities.sourcelink.json

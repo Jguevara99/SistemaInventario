@@ -10,8 +10,9 @@ C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\POS.
 C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.AssemblyInfo.cs
 C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.CoreCompileInputs.cache
-C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.csproj.CopyComplete
 C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.dll
 C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\refint\POS.Infrastructure.dll
 C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.pdb
 C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\ref\POS.Infrastructure.dll
+C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\POS.Infrastructure.sourcelink.json
+C:\Users\PC\source\repos\POS-Inventario\POS.Infrastructure\obj\Debug\net6.0\POS.Infr.1F9324E1.Up2Date

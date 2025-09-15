@@ -16,4 +16,5 @@ C:\Users\PC\source\repos\POS-Inventario\POS.Application\bin\Debug\net6.0\POS.Inf
 C:\Users\PC\source\repos\POS-Inventario\POS.Application\bin\Debug\net6.0\POS.Utilities.pdb
 C:\Users\PC\source\repos\POS-Inventario\POS.Application\bin\Debug\net6.0\POS.Domain.pdb
 C:\Users\PC\source\repos\POS-Inventario\POS.Application\obj\Debug\net6.0\POS.Application.csproj.AssemblyReference.cache
-C:\Users\PC\source\repos\POS-Inventario\POS.Application\obj\Debug\net6.0\POS.Application.csproj.CopyComplete
+C:\Users\PC\source\repos\POS-Inventario\POS.Application\obj\Debug\net6.0\POS.Application.sourcelink.json
+C:\Users\PC\source\repos\POS-Inventario\POS.Application\obj\Debug\net6.0\POS.Appl.B41D5806.Up2Date

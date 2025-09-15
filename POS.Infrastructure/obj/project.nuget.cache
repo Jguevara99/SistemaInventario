@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "XTsWT1MAWzRN1mOfNVCXtqPoRs9c/xbQujS23+uZIfUwLWbAZcp+cjEPAiiJROod1Eto1uiLjNrEZ8eq2S2vSA==",
+  "dgSpecHash": "2Dn/m3y+aD8=",
   "success": true,
   "projectFilePath": "C:\\Users\\PC\\source\\repos\\POS-Inventario\\POS.Infrastructure\\POS.Infrastructure.csproj",
   "expectedPackageFiles": [
@@ -47,6 +47,16 @@
     "C:\\Users\\PC\\.nuget\\packages\\system.windows.extensions\\4.7.0\\system.windows.extensions.4.7.0.nupkg.sha512"
   ],
   "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"System.Linq.Dynamic.Core\" 1.2.19 tiene una vulnerabilidad de gravedad alta conocida, https://github.com/advisories/GHSA-4cv2-4hjh-77rx",
+      "libraryId": "System.Linq.Dynamic.Core",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    },
     {
       "code": "NU1904",
       "level": "Warning",

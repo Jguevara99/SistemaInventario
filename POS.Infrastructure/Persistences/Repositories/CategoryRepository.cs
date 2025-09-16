@@ -4,7 +4,7 @@ using POS.Infrastructure.Commons.Bases.Request;
 using POS.Infrastructure.Commons.Bases.Response;
 using POS.Infrastructure.Persistences.Contexts;
 using POS.Infrastructure.Persistences.Interfaces;
-using static POS.Utilities.Static.StateType;
+using POS.Utilities.Static;
 
 namespace POS.Infrastructure.Persistences.Repositories
 {
@@ -59,7 +59,7 @@ namespace POS.Infrastructure.Persistences.Repositories
 		public async Task<IEnumerable<Category>> ListSelectCategories()
 		{
 			var categories = await _context.Categories
-				.Where(x => x.State.Equals((int)StateTypes.Active) && x.AuditDeleteUser == null && x.AuditDeleteDate == null).AsNoTracking().ToListAsync();
+				.Where(x => x.State.Equals((int)StateType.Active) && x.AuditDeleteUser == null && x.AuditDeleteDate == null).AsNoTracking().ToListAsync();
 
 			return categories;
 
